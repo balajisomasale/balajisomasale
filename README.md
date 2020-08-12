@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 -->
-- 🔭 I’m currently working as a Java Full Stack Engineer with Spring, HIbernate and Angular Frameworks
+- 🔭 I’m currently working as a Java Full Stack Engineer with Spring, Hibernate and Angular Frameworks
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: balu9198@gmail.com
+- 📫 How to reach out to me: balu9198@gmail.com
 
 - ⚡ Fun fact: I love Cricket.
 
