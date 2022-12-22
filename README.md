@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🌱 I'm currently a Graduate student at DALHOUSIE University
-- 🔭 I have worked as a Java Full Stack Engineer with Spring, Hibernate and Angular Frameworks
+- 🔭 I have worked as a Full Stack Engineer with Python, Java, Django, Spring, Hibernate and Angular Frameworks
 - 💬 Ask me about anything and everything!
 - 📫 How to reach out to me: balu9198@gmail.com
 
