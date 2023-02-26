@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 🔭
 -->
-- 🌱 I'm currently a Graduate student at DALHOUSIE University.
+- 🌱 I'm currently a Graduate student at DALHOUSIE University( DAL 23 ) .
 - :computer: I am AWS-Certified Cloud Practitioner and developer who know DevOps. I have 2+ years of experience in IT and worked   as a Developer and Devops Engineer 
 - ⚡ Have Solid Knowledge on : Linux, Python, Java, Django, Spring, Hibernate, Angular Frameworks
      Jenkins, AWS, Maven, Docker, Kubernetes, Ansible, Terraform
