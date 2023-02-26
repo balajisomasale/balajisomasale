@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Have Solid Knowledge on : Linux, Python, Java, Django, Spring, Hibernate, Angular Frameworks
      Jenkins, AWS, Maven, Docker, Kubernetes, Ansible, Terraform
 - 📫 How to reach out to me: balu9198@gmail.com
-- ⚡ Fun fact: I love Cricket.
+- 😄 Fun fact: I love Cricket.
 
