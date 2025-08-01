@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 🔭
 -->
 - 🌱 Graduate student at DALHOUSIE University ( DAL 23 ) .
-- :computer: I am AWS-Certified Cloud Practitioner and developer who know DevOps. I have 2+ years of experience in IT and worked   as a Developer and Devops Engineer 
-- ⚡ Have Solid Knowledge on : Linux, Python, Java, Django, Spring, Hibernate, Angular Frameworks
+- :computer: I am AWS-Certified Cloud Practitioner and a developer who knows DevOps. I have 4+ years of experience in IT and worked   as a Developer and Devops Engineer 
+- ⚡ Have Solid Knowledge on: Linux, Python, Java, Django, Spring, Hibernate, Angular Frameworks
      Jenkins, AWS, Maven, Docker, Kubernetes, Ansible, Terraform
 - 📫 How to reach out to me: balu9198@gmail.com
 - 😄 Fun fact: I love Cricket.
